@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "eb909b7c33d328c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4153a43a22d43b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663a38f7caac264c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d92709dfdcd22e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch 1 Security Principles, Module 1 Information Assurance/CIA Triad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df94ad1973202555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch 1 Security Principles, Module 1 Information Assurance/Authentication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "143da0dcfff72ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch 1 Security Principles, Module 1 Information Assurance/Non-repudiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa349e2887ea4426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch 1 Security Principles, Module 1 Information Assurance/Privacy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "494a09a4dd01b90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "89abb5271a400bb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3d64f5b60968b35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c86cc32cff32e45a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d647c05725e055c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e34e84cc39cf498d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6132f588ab9f6e65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52a23eb450ff40d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ch 1 Security Principles, Module 1 Information Assurance/Privacy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65fd60904618729f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ch 1 Security Principles, Module 1 Information Assurance/Privacy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "531d0328828a3e37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b2e198730cae50f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ch 1 Security Principles, Module 1 Information Assurance/Privacy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fa349e2887ea4426",
+  "lastOpenFiles": [
+    "Ch 1 Security Principles, Module 1 Information Assurance/Non-repudiation.md",
+    "Ch 1 Security Principles, Module 1 Information Assurance/Privacy.md",
+    "Ch 1 Security Principles, Module 1 Information Assurance/Authentication.md",
+    "Ch 1 Security Principles, Module 1 Information Assurance/CIA Triad.md",
+    "Ch 1 Security Principles, Module 1 Information Assurance",
+    "2023-12-20.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Privacy is the right of an individual to control the distribution of information about themselves. GDPR and HIPPA are examples of laws that protect individuals privacy

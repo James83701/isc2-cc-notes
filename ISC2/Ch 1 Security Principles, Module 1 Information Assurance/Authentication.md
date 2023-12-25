@@ -1,0 +1,2 @@
+Authentication - the process of verifying a users identity. Methods of authentication include what you know (passwords), have (tokens or memory card) or are (biometric data)
+For sufficient security, 2 or more forms of authentication should be used
